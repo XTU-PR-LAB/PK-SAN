@@ -15,3 +15,14 @@ Make sure you have the following dependencies installed before proceeding:
 - PyTorch >= 1.10.0
 - cuda 10.2
 - cudnn 7.6.5
+
+### Citation
+If you find our code or paper helps, please consider citing:
+```
+@article{
+  title={Prior-Knowledge-Based Self-Attention Network for 3D Human Pose Estimation},
+  author={Shu Chen, Yaxin Xu, Beiji Zou},
+  journal={Expert Systems with Applications. 225 (2023) Article 120213},
+  year={2023}
+}
+```
